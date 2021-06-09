@@ -1,0 +1,22 @@
+{
+    "picklist": [
+         
+            {
+                "id": "1",
+                "pickklistType": "NTRX 1 Protein Production"
+            },
+            {
+                "id": "2",
+                "pickklistType": "NTRX 2 Protein Production"
+            },
+            {
+                "id": "3",
+                "pickklistType": "NTRX 3 Protein Production"
+            },
+            {
+                "id": "4",
+                "pickklistType": "NTRX 4 Protein Production"
+            }
+        
+        ]
+}
